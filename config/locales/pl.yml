@@ -1,5 +1,5 @@
 pl:
-  language_name: "Polskiv001"
+  language_name: "Polski"
   activerecord:
     attributes:
       enterprise_fee:
@@ -1247,12 +1247,12 @@ pl:
   menu_3_url: "/producers"
   menu_4_title: "Grupy"
   menu_4_url: "/groups"
-  menu_5_title: "O"
-  menu_5_url: "https://about.openfoodnetwork.org.au/"
+  menu_5_title: "O nas"
+  menu_5_url: "https://www.kooplab.org/"
   menu_6_title: "Połączyć"
-  menu_6_url: "https://openfoodnetwork.org/au/connect/"
+  menu_6_url: "https://www.kooplab.org/"
   menu_7_title: "Uczyć się"
-  menu_7_url: "https://openfoodnetwork.org/au/learn/"
+  menu_7_url: "https://www.kooplab.org/"
   logo: "Logo (640x130)"
   logo_mobile: "Logo na telefon komórkowy (75x26)"
   logo_mobile_svg: "Logo mobilne (SVG)"
@@ -1547,7 +1547,7 @@ pl:
   shopping_groups_part_of: "jest częścią:"
   shopping_producers_of_hub: "producenci %{hub}:"
   enterprises_next_closing: "Zamknięcie kolejnego zamówienia"
-  enterprises_ready_for: "Termin odbioru"
+  enterprises_ready_for: "Odbiór"
   enterprises_choose: "Wybierz, kiedy chcesz zamówić:"
   maps_open: "otwarty"
   maps_closed: "Zamknięte"
