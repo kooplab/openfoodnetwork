@@ -283,7 +283,7 @@ pl:
   depth: "Głębokość"
   actions:
     create_and_add_another: "Utwórz i dodaj kolejny"
-    create: "Stwórz"
+    create: "Utwórz"
     cancel: "Anuluj"
     save: "Zapisz"
     edit: "Edytuj"
@@ -528,7 +528,7 @@ pl:
         no_name: Bez nazwy
         blank_enterprise: niektóre produkty nie mają zdefiniowanego podmiotu
         reset_absent?: Zresetuj nieobecne produkty
-        reset_absent_tip: Ustaw zapasy na zero dla wszystkich wychodzących produktów, których nie ma w pliku
+        reset_absent_tip: Ustaw zapasy na zero dla wszystkich produktów, których nie ma w pliku
         overwrite_all: Zastąp wszystko
         overwrite_empty: Zastąp, jeśli jest pusty
         default_stock: Ustaw stan magazynu
@@ -598,11 +598,11 @@ pl:
         tip: "Użyj tej strony, aby zmienić ilości produktów w wielu zamówieniach. W razie potrzeby produkty mogą być również całkowicie usunięte z zamówień."
         shared: "Udostępniony zasób?"
         order_no: "Nr zamówienia."
-        order_date: "Ukończono o godz"
+        order_date: "Ukończono"
         max: "Maks"
         product_unit: "Produkt: Jednostka"
         weight_volume: "Waga / objętość (g)"
-        ask: "Zapytać?"
+        ask: "Pytać?"
         page_title: "Zbiorcze zarządzanie zamówieniami"
         actions_delete: "Usuń wybrane"
         loading: "Ładowanie zamówień"
@@ -866,7 +866,7 @@ pl:
         loading_order_cycles: ŁADOWANIE CYKLI ZAMÓWIEŃ
         loading: ŁADOWANIE...
       new:
-        create: "Stwórz"
+        create: "Utwórz"
         cancel: "Anuluj"
         back_to_list: "Powrót do listy"
       edit:
@@ -927,7 +927,7 @@ pl:
         add: Dodaj opłatę koordynacyjną
       filters:
         search_by_order_cycle_name: "Szukaj według nazwy cyklu zamówień ..."
-        involving: "Zaangażowanie"
+        involving: "Podmioty"
         any_enterprise: "Dowolny podmiot"
         any_schedule: "Dowolny harmonogram"
       form:
@@ -1173,7 +1173,7 @@ pl:
         edit_cart: "Edytuj koszyk"
         items_in_cart_singular: "%{num} w Twoim koszyku"
         items_in_cart_plural: "%{num} pozycji w Twoim koszyku"
-        close: "Blisko"
+        close: "Zamknij"
         cart_empty: "Twój koszyk jest pusty"
         take_me_shopping: "Zabierz mnie na zakupy!"
       signed_in:
@@ -1383,7 +1383,7 @@ pl:
       cookies_policy_link_desc: "Jeśli chcesz dowiedzieć się więcej, zajrzyj do naszego"
       cookies_policy_link: "polityka plików cookies"
       cookies_accept_button: "Akceptuje ciasteczka"
-  home_shop: Kupuj teraz
+  home_shop: Zrób zakupy
   brandstory_headline: "Żywność bez korporacji."
   brandstory_intro: "Czasami najlepszym sposobem naprawienia systemu jest rozpoczęcie nowego…"
   brandstory_part1: "Zaczynamy od podstaw. Z rolnikami i hodowcami gotowymi do dumnego i prawdziwego opowiadania swoich historii. Z dystrybutorami gotowymi do uczciwego i uczciwego łączenia ludzi z produktami. Z kupującymi, którzy wierzą, że lepsze cotygodniowe decyzje zakupowe mogą poważnie zmienić świat."
@@ -1402,7 +1402,7 @@ pl:
   system_step2: "2. Sklep"
   system_step2_text: "Zmień swoje decyzje zakupowe dzięki przystępnej cenowo lokalnej żywności od różnych producentów i kooperatyw. Poznaj historie związane z jedzeniem i ludźmi, którzy je produkują!"
   system_step3: "3. Odbiór / Dostawa"
-  system_step3_text: "Zamów dostawę lub odwiedź producenta czy kooperatywę, aby odzyskać osobisty kontakt z tym co jesz. Zakupy żywności mogą być tak różnorodne, jak różnorodne jest natura."
+  system_step3_text: "Zamów dostawę lub odwiedź producenta czy kooperatywę, aby odzyskać osobisty kontakt z tym co jesz. Zakupy żywności mogą być tak różnorodne, jak różnorodna jest natura."
   cta_headline: "Zakupy, dzięki którym świat staje się lepszym miejscem."
   cta_label: "Jestem gotowy"
   stats_headline: "Tworzymy nowy system żywieniowy."
@@ -1551,12 +1551,12 @@ pl:
   enterprises_choose: "Wybierz, kiedy chcesz zamówić:"
   maps_open: "otwarty"
   maps_closed: "Zamknięte"
-  hubs_buy: "Kupować:"
+  hubs_buy: "Kupuj:"
   hubs_shopping_here: "Tutaj robisz zakupy"
   hubs_orders_closed: "Zamówienia zamknięte"
   hubs_profile_only: "Tylko profil"
   hubs_delivery_options: "Opcje dostawy"
-  hubs_pickup: "Odebrać"
+  hubs_pickup: "Odbiór"
   hubs_delivery: "Dostawa"
   hubs_producers: "Nasi producenci"
   hubs_filter_by: "Filtruj według"
@@ -1605,7 +1605,7 @@ pl:
   components_filters_clearfilters: "Wyczyść wszystkie filtry"
   groups_title: Grupy
   groups_headline: Grupy / regiony
-  groups_text: "Każdy producent jest wyjątkowy. Każda firma ma coś innego do zaoferowania. Nasze grupy to kolektywy producentów, kooperatyw i dystrybutorów, których łączy coś wspólnego, np. lokalizacja, rynek rolniczy lub filozofia. Ułatwia to zakupy, poznaj więc nasze grupy."
+  groups_text: "Każdy producent jest wyjątkowy. Każdy ma coś innego do zaoferowania. Nasze grupy to kolektywy producentów, kooperatyw i dystrybutorów, których łączy coś wspólnego, np. lokalizacja, rynek rolniczy lub filozofia. Ułatwia to zakupy, poznaj więc nasze grupy."
   groups_search: "Wyszukaj nazwę lub słowo kluczowe"
   groups_no_groups: "Nie znaleziono żadnych grup"
   groups_about: "O nas"
@@ -1637,11 +1637,11 @@ pl:
   groups_signup_detail: "Oto szczegóły."
   login_invalid: "Nieprawidłowy e-mail lub hasło"
   producers_about: O nas
-  producers_buy: Kupować
+  producers_buy: Kupuj
   producers_contact: Kontakt
   producers_contact_phone: Połączenie
   producers_contact_social: Podążać
-  producers_buy_at_html: "Kup produkty %{enterprise} pod adresem:"
+  producers_buy_at_html: "%{enterprise} Ich produkty kupisz w tych miejscach:"
   producers_filter: Filtruj według
   producers_filter_type: Rodzaj
   producers_filter_property: własność
@@ -1920,7 +1920,7 @@ pl:
   shop_variant_quantity_min: "min"
   shop_variant_quantity_max: "max"
   follow: "Podążać"
-  shop_for_products_html: "Kup produkty <span class=\"turquoise\">%{enterprise}</span> pod adresem:"
+  shop_for_products_html: "<span class=\"turquoise\">%{enterprise}</span> - te produkty kupisz w następujących miejscach: "
   change_shop: "Zmień sklep na:"
   shop_at: "Kup teraz na:"
   price_breakdown: "Pełne zestawienie cen"
@@ -1954,7 +1954,7 @@ pl:
   admin_enterprise_relationships_everything: "Wszystko"
   admin_enterprise_relationships_permits: "pozwolenia"
   admin_enterprise_relationships_seach_placeholder: "Szukaj"
-  admin_enterprise_relationships_button_create: "Stwórz"
+  admin_enterprise_relationships_button_create: "Utwórz"
   admin_enterprise_relationships_to: "do"
   admin_enterprise_groups: "Grupy podmiotów"
   admin_enterprise_groups_name: "Nazwa"
@@ -1976,10 +1976,10 @@ pl:
   admin_enterprise_groups_web: "Zasoby internetowe"
   admin_enterprise_groups_web_twitter: "na przykład. @the_prof"
   admin_enterprise_groups_web_website_placeholder: "na przykład. www.truffles.com"
-  admin_order_cycles: "Cykle zamówień administratora"
+  admin_order_cycles: "Zarządzaj cyklami zamówień"
   open: "otwarty"
-  close: "Blisko"
-  create: "Stwórz"
+  close: "Zamknij"
+  create: "Utwórz"
   search: "Szukaj"
   supplier: "Dostawca"
   product_name: "Nazwa produktu"
@@ -2033,17 +2033,17 @@ pl:
   spree_admin_overview_enterprises_header: "Moje podmioty"
   spree_admin_overview_enterprises_footer: "ZARZĄDZAJ MOIMI PODMIOTAMI"
   spree_admin_enterprises_hubs_name: "Nazwa"
-  spree_admin_enterprises_create_new: "TWORZYĆ NOWE"
+  spree_admin_enterprises_create_new: "STWÓRZ NOWY"
   spree_admin_enterprises_shipping_methods: "Metody dostawy"
   spree_admin_enterprises_fees: "Opłaty dla podmiotów"
-  spree_admin_enterprises_none_create_a_new_enterprise: "STWÓRZ NOWY PODMIOT"
+  spree_admin_enterprises_none_create_a_new_enterprise: "UTWÓRZ NOWY PODMIOT"
   spree_admin_enterprises_none_text: "Nie masz jeszcze żadnych podmiotów"
   spree_admin_enterprises_tabs_hubs: "Huby"
   spree_admin_enterprises_producers_manage_products: "ZARZĄDZAJ PRODUKTAMI"
-  spree_admin_enterprises_create_new_product: "STWÓRZ NOWY PRODUKT"
+  spree_admin_enterprises_create_new_product: "UTWÓRZ NOWY PRODUKT"
   spree_admin_single_enterprise_alert_mail_confirmation: "Potwierdź adres e-mail dla"
   spree_admin_single_enterprise_alert_mail_sent: "Wysłaliśmy e-mail do"
-  spree_admin_overview_action_required: "Konieczne są działania"
+  spree_admin_overview_action_required: "Konieczne działania"
   spree_admin_overview_check_your_inbox: "Dalsze instrukcje znajdziesz w swojej skrzynce odbiorczej. Dzięki!"
   spree_admin_unit_value: Wartość jednostki
   spree_admin_unit_description: Opis jednostki
@@ -2055,8 +2055,8 @@ pl:
   unit_name: "Nazwa jednostki"
   change_package: "Zmień pakiet"
   spree_admin_single_enterprise_hint: "Wskazówka: aby inni mogli Cię znaleźć, włącz widoczność poniżej"
-  spree_admin_eg_pickup_from_school: "na przykład. Odbiór ze szkoły podstawowej"
-  spree_admin_eg_collect_your_order: "na przykład. „Proszę odebrać zamówienie pod adresem 123 Imaginary St, Northcote, 3070”"
+  spree_admin_eg_pickup_from_school: "na przykład: 'Odbiór w Domu Kultury'"
+  spree_admin_eg_collect_your_order: "na przykład. „Proszę odebrać zamówienie pod adresem Słowackiego 19, Poznań”"
   spree_classification_primary_taxon_error: "Takson %{taxon} jest głównym taksonem %{product} i nie można go usunąć"
   spree_order_availability_error: "Dystrybutor lub cykl zamówień nie mogą dostarczyć produktów w Twoim koszyku"
   spree_order_populator_error: "Ten dystrybutor lub cykl zamówień nie może dostarczyć wszystkich produktów w Twoim koszyku. Proszę wybierz inny."
@@ -2375,7 +2375,7 @@ pl:
       enterprise_limit_reached: "Osiągnąłeś standardowy limit podmiotów na konto. Napisz do %{contact_email}, jeśli chcesz go zwiększyć."
       modals:
         got_it: Rozumiem
-        close: "Blisko"
+        close: "Zamknij"
         invite: "Zapraszam"
         invite_title: "Zaproś niezarejestrowanego użytkownika"
         tag_rule_help:
@@ -2867,7 +2867,7 @@ pl:
   stop: "Koniec"
   first: "Pierwszy"
   previous: "Poprzedni"
-  last: "Ostatni, ubiegły, zeszły"
+  last: "Ostatni"
   spree:
     more: "Więcej"
     your_order_is_empty_add_product: "Twoje zamówienie jest puste, wyszukaj i dodaj produkt powyżej"
@@ -2948,7 +2948,7 @@ pl:
     send_mails_as: "Wyślij e-maile jako"
     smtp_send_all_emails_as_from_following_address: "Wysyłaj wszystkie maile z następującego adresu."
     send_copy_of_all_mails_to: "Wyślij kopię wszystkich wiadomości do"
-    smtp_send_copy_to_this_addresses: "Wysyła kopię wszystkich wychodzących wiadomości na ten adres. W przypadku wielu adresów oddziel je przecinkami."
+    smtp_send_copy_to_this_addresses: "Wysyła kopię wszystkich wychodzących wiadomości na ten adres. W przypadku wielu adresów, oddziel je przecinkami."
     intercept_email_address: "Przechwyć adres e-mail"
     intercept_email_instructions: "Zastąp adresata wiadomości e-mail i zastąp tym adresem."
     image_settings: "Ustawienia obrazu"
@@ -3006,7 +3006,7 @@ pl:
     active: "Aktywny"
     nore: "Więcej"
     no_results: "Brak wyników"
-    create: "Stwórz"
+    create: "Utwórz"
     loading: "Ładowanie"
     flat_percent: "Płaski procent"
     per_kg: "Na kg"
@@ -3140,7 +3140,7 @@ pl:
           order_not_updated: "Nie można zaktualizować zamówienia"
           note: "Uwaga"
           first: "Pierwszy"
-          last: "Ostatni, ubiegły, zeszły"
+          last: "Ostatni"
           previous: "Poprzedni"
           next: "Kolejny"
           loading: "Ładowanie"
